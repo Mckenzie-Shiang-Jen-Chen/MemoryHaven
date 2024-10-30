@@ -1,2 +1,2 @@
 # MemoryHaven
-CMPT 276 group project 
+changes by mckenzie
